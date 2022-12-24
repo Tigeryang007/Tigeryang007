@@ -1,0 +1,4 @@
+I'm a research scientist in the Cooperative Institute for Satellite Earth System Studies (CISESS), University of Maryland. I got my Ph.D degree from the Institute of Remote Sensing Application, China Academy of Science, Beijing, in 2003. 
+I have over twenty years experiences on active and passive microwave remote sensing, microwave radiometer ground and on-orbit calibration, satellite geolocation, and ground calibration processing system development. 
+Recently we launched a remote sensing Lab, working on ground radiometer development based on micro-controller and FPGA board for student education and training on microwaave remote sensing. I have published over 40 peer reviewed journals on microwave remote sensing related studies.
+https://essic.umd.edu/joom2/index.php/faculty-and-staff/all?layout=user&user_id=628
